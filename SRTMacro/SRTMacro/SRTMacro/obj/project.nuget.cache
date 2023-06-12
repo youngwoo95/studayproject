@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycEiT8HmKI74yjx/eFxGdHKoZrSxVjCn/j2wGPi6UvIWfSYiS+jwVmZj9NITSHhiohFFv0uaLDO2LSTCJKChhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rlady\\OneDrive\\Desktop\\SRTMacro\\SRTMacro\\SRTMacro\\SRTMacro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rlady\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
